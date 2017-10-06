@@ -44,7 +44,7 @@ public class Sort extends HttpServlet {
 		
 		String page=null;
 		
-		if(initial.equals(null))
+		if(initial.equals(""))
 			initial="No Value";
 		
 		if(cardNum.equals(cardNumcp)) {

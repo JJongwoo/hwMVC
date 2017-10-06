@@ -8,7 +8,7 @@
 </head>
 <body>
 	Card Number가 일치 하지 않습니다.
-	<a href="/view/form.jsp">다시 입력</a>
+	<a href="/hwMVC/view/form.jsp">다시 입력</a>
 	
 </body>
 </html>
